@@ -60,7 +60,7 @@ Go to Admin Panel, then select Agents, and finally select Teams. Add this member
 <br />
 
 <p>
-<img src="https://i.imgur.com/eDbAbNU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/eDbAbNU.png" height="80%" width="80%" alt="Letting users create tickets"/>
 </p>
 <p>
 Go to Admin Panel, then go to settings, and finally select users.
