@@ -74,3 +74,11 @@ Go to Admin Panel, then go to settings, and finally select users.
 Go to Admin Panel, then go to Agents, and finally select agents.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/R8IKKQJ.png" height="80%" width="80%" alt="Adding users"/>
+</p>
+<p>
+Go to Agent Panel, then go to Users, and finally select user directory. Select add user to add the user.
+</p>
+<br />
