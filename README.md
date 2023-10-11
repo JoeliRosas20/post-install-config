@@ -51,6 +51,14 @@ Go to Admin Panel, then select Agents, and finally select Departments.
 <br />
 
 <p>
+<img src="https://i.imgur.com/yIgpY8E.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Go to Admin Panel, then select Agents, and finally select Teams.
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/eDbAbNU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
