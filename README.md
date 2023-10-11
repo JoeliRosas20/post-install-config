@@ -51,10 +51,11 @@ Go to Admin Panel, then select Agents, and finally select Departments.
 <br />
 
 <p>
-<img src="https://i.imgur.com/yIgpY8E.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/yIgpY8E.png" height="40%" width="40%" alt="Creating the team"/>
+<img src="https://i.imgur.com/XYRNUod.png" height="40%" width="40%" alt="Adding a user to the team"/>
 </p>
 <p>
-Go to Admin Panel, then select Agents, and finally select Teams.
+Go to Admin Panel, then select Agents, and finally select Teams. Add this member to the team.
 </p>
 <br />
 
