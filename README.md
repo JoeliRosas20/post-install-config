@@ -66,3 +66,11 @@ Go to Admin Panel, then select Agents, and finally select Teams. Add this member
 Go to Admin Panel, then go to settings, and finally select users.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/51UVFQH.png" height="80%" width="80%" alt="Adding agents"/>
+</p>
+<p>
+Go to Admin Panel, then go to Agents, and finally select agents.
+</p>
+<br />
