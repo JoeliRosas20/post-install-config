@@ -82,3 +82,10 @@ Go to Admin Panel, then go to Agents, and finally select agents.
 Go to Agent Panel, then go to Users, and finally select user directory. Select add user to add the user.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/91VJTU2.png" height="80%" width="80%" alt="Adding SLA"/>
+</p>
+<p>
+Go to Agent Panel, then go to Manage, and finally select SLA.
+<br />
