@@ -25,6 +25,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Add the Supreme Admin Role.
 - Add the System Administrators Department.
 - Add Level II Support Team.
+- Allow anyone to create tickets
 - Add 2 agents.
 - Add 2 users.
 - Add 3 SLAs.
@@ -33,26 +34,26 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/NJhp0pR.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/OIjQrkG.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NJhp0pR.png" height="40%" width="40%" alt="Name of Role"/>
+<img src="https://i.imgur.com/OIjQrkG.png" height="40%" width="40%" alt="Permission of Role"/>
 </p>
 <p>
-Add the Supreme Admin Role.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to Admin Panel, then select Agents, and finally select Roles.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9wZwLVp.png" height="80%" width="80%" alt="Creating the department"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to Admin Panel, then select Agents, and finally select Departments.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/eDbAbNU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Go to Admin Panel, then go to settings, and finally select users.
 </p>
 <br />
