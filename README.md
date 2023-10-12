@@ -87,5 +87,14 @@ Go to Agent Panel, then go to Users, and finally select user directory. Select a
 <img src="https://i.imgur.com/91VJTU2.png" height="80%" width="80%" alt="Adding SLA"/>
 </p>
 <p>
-Go to Agent Panel, then go to Manage, and finally select SLA.
+Go to Admin Panel, then go to Manage, and finally select SLA.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/fbgk5W1.png" height="80%" width="80%" alt="Adding SLA"/>
+</p>
+<p>
+Go to Admin Panel, then go to Manage, and finally select Help Topics.
+</p>
 <br />
